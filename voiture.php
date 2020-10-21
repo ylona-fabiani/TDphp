@@ -50,6 +50,13 @@
 	public function afficher() {
 		echo "<p>Voiture $this->immatriculation de marque $this->marque (couleur $this->couleur)</p> ";
 	}
+
+	public function getAllVoitures(){
+		$rep = (Model::$pdo)->query("Select * From Voiture");
+		$rep->setFetchMode(PDO::FETCH_CLASS, 'Voiture');
+		$tab_voit = $rep->fetchAll();
+		return $tab_voit;
+	}
 }
 ?>
 
