@@ -8,17 +8,13 @@
     <body>
         Voici le résultat du script PHP : 
         <p>
-          <? php
+          <?php
             $voiture = array('marque', 'couleur','immat');
             var_dump($voiture);
 
-            for ($i = 0; $i < count($voiture); i++) {
+            for ($i = 0; $i < count($voiture); $i++) {
               echo $voiture[$i];
             }
-
-            
-
-
             
           ?>
       </p>
