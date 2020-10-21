@@ -2,18 +2,18 @@
 
 require_once('Conf.php');
 
-class Model{
+class Model {
 
     public static $pdo;
 
 
-
-    public static function Init(){
+    public static function Init()
+    {
         $hostname = Conf::getHostname();
         $database_name = Conf::getDatabase();
         $login = Conf::getLogin();
         $password = Conf::getPassword();
-        try{ //Il est important que toutes lignes de codes utilisant PDO soit dans un try - catch afin de capturer les exceptions.
+        try { //Il est important que toutes lignes de codes utilisant PDO soit dans un try - catch afin de capturer les exceptions.
             // Connexion à la base de données
             // Le dernier argument sert à ce que toutes les chaines de caractères
             // en entrée et sortie de MySql soit dans le codage UTF-8
@@ -30,13 +30,11 @@ class Model{
                 echo 'Une erreur est survenue <a href=""> retour a la page d\'accueil </a>';
             }
             die();
+        }
 
 
 
     }
 }
-
-
 Model::Init();
-
 ?>
