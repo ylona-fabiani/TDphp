@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee5be170-c540-4710-9521-ad3f6cbdc0e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TDphp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/voiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/voiture.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +56,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603024871122</updated>
       <workItem from="1603024873165" duration="273000" />
-      <workItem from="1603178216929" duration="1101000" />
+      <workItem from="1603178216929" duration="1843000" />
+      <workItem from="1603278507775" duration="230000" />
+      <workItem from="1603280168477" duration="423000" />
     </task>
     <servers />
   </component>
@@ -78,6 +78,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="388" y="100" key="#PHP" timestamp="1603181667417">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="388" y="100" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1603181667417" />
     <state x="505" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1603178523838">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
