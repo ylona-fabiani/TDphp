@@ -39,9 +39,9 @@
 		$this->immatriculation = $i;
 	}
 
-	// methode d'affichage
+	// une methode d'affichage.
 	public function afficher() {
-		echo "La voiture est de la marque $this->marque, de couleur $this->couleur avec l'immatriculation n°$this->immatriculation";
+		echo "<p>Voiture $this->immatriculation de marque $this->marque (couleur $this->couleur)</p> ";
 	}
 }
 ?>
