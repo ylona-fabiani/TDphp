@@ -32,5 +32,12 @@ class Conf {
     static public function getPassword() {
         return self::$databases['password'];
     }
+
+    // la variable debug est un boolean
+    static private $debug = True;
+
+    static public function getDebug() {
+        return self::$debug;
+    }
 }
 ?>
