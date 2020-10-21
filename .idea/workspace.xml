@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee5be170-c540-4710-9521-ad3f6cbdc0e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/voiture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/Conf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testConf.php" beforeDir="false" afterPath="$PROJECT_DIR$/testConf.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j3FShPsPHSn8dFzjWlP6S4grMt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -59,6 +65,8 @@
       <workItem from="1603178216929" duration="1843000" />
       <workItem from="1603278507775" duration="230000" />
       <workItem from="1603280168477" duration="423000" />
+      <workItem from="1603292478943" duration="307000" />
+      <workItem from="1603302345168" duration="838000" />
     </task>
     <servers />
   </component>
@@ -76,6 +84,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="100" key="#PHP" timestamp="1603181667417">
