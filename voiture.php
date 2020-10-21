@@ -57,6 +57,13 @@
 		$tab_voit = $rep->fetchAll();
 		return $tab_voit;
 	}
+	//getAllTrajets() et getAllUtilisateurs()
+	public function getAllTrajets(){
+		$rep = (Model::$pdo)->query("Select * From Voiture");
+		$rep->setFetchMode(PDO::FETCH_CLASS, 'Voiture');
+		$tab_voit = $rep->fetchAll();
+		return $tab_voit;
+	}
 }
 ?>
 
