@@ -85,6 +85,10 @@
 			return false;
 		return $tab_voit[0];
 	}
+
+	function save() {
+		INSERT INTO Voiture()
+	}
 }
 ?>
 

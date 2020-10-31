@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee5be170-c540-4710-9521-ad3f6cbdc0e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TD3/lireVoiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/TD3/lireVoiture.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TD3/voiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/TD3/Voiture.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/Voiture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD3/Voiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/TD3/Voiture.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,7 +68,7 @@
       <workItem from="1603302345168" duration="4998000" />
       <workItem from="1603346818961" duration="261000" />
       <workItem from="1603974392448" duration="167000" />
-      <workItem from="1604164257953" duration="439000" />
+      <workItem from="1604164257953" duration="1416000" />
     </task>
     <servers />
   </component>
@@ -99,5 +99,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="505" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1603178523838" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1604165200769">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604165200769" />
   </component>
 </project>
